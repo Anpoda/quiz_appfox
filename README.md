@@ -1,16 +1,17 @@
-# quiz_appfox
+# A Simple Quiz App
 
-A new Flutter project.
+## Screen One
 
-## Getting Started
+<img src="./screenshots/screen_one.png" width="400"/>
 
-This project is a starting point for a Flutter application.
+## Screen Two
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./screenshots/screen_two.png" width="400"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screen Three
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="./screenshots/screen_three.png" width="400"/>
+
+## Screenshot from Firebase Firestore
+
+<img src="./screenshots/screenshot_from_firestore.png" width="400"/>

@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:quiz_appfox/data/models/question_model.dart';
-import 'package:quiz_appfox/data/models/result_model.dart';
+import 'package:quiz_appfox/models/result_model.dart';
 import 'package:quiz_appfox/data/repository/question_repository.dart';
 import 'package:quiz_appfox/utils/date_time_helper.dart';
 import 'package:quiz_appfox/utils/firebase_helper.dart';
