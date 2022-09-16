@@ -14,4 +14,4 @@
 
 ## Screenshot from Firebase Firestore
 
-<img src="./screenshots/screenshot_from_firestore.png" width="400"/>
+<img src="./screenshots/screenshot_from_firestore.png" width="800"/>
