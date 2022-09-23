@@ -17,7 +17,7 @@ Future<List<Question>> getQuestions({required String categoryQuestions, required
         .toList();
       return data;
     } else {
-      throw Exception("Failed to load question");
+      throw Exception("Failed to load question! Try again.");
     }
  }
 }
